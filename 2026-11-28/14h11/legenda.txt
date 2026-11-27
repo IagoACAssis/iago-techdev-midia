@@ -1,15 +1,16 @@
-Site de feira com cara de feira. 🍅
+Site de feira com identidade própria. 🍅🍊🍋
 
 A Banca da Cida é fictícia, mas cada detalhe tem motivo:
-• o toldo listrado fica fixo e balança de leve
-• as plaquinhas de preço balançam com a rolagem (é física de mola, não é GIF)
-• a fruta voa em arco e cai na sacola de papel, que atualiza o total
-• o pedido sai numa nota escrita à mão e leva carimbo
+• a fruta é 3D, feita em three.js, e gira de verdade
+• as formas em volta mostram quanto vem no pedido: escolheu 1 kg, aparecem 8 rodelas
+• o preço rola dígito por dígito, como num contador
+• a fruta voa pra sacola e o número salta
+• o pedido fecha numa gaveta direto pro WhatsApp
 
 Tudo em HTML, CSS e JavaScript. Sem template, sem cara de site feito por IA.
 
-EN: A street-market website with real identity: swinging price tags driven by scroll physics, fruit that flies into a paper bag, and a handwritten receipt.
+EN: A street-market website with real identity: 3D fruit in three.js, shapes that show how much you're ordering, and a rolling price counter.
 
 Qual negócio do seu bairro merecia um site assim? 👇
 
-#webdesign #frontend #css #uidesign #devbrasil
+#webdesign #frontend #threejs #uidesign #devbrasil
