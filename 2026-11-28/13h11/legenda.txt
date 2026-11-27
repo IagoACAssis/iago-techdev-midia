@@ -1,4 +1,4 @@
-Pare de escrever um textão explicando tudo pra IA. 🗂️
+Pare de escrever textão pra IA. Deixe ela te entrevistar. 📋
 
 Cole isso no começo do pedido:
 "Antes de responder, me faça até 5 perguntas sobre o que você precisa saber. Só responda depois que eu responder."
