@@ -1,12 +1,13 @@
-A IA escreveu, mas quem assina é você. ✍️
+Passei um "linter" no texto que a IA escreveu. Deu 5 avisos. 🧐
 
-Antes de mandar, passe a caneta vermelha nestes 5 pontos:
 1. abertura de manual
-2. palavras de vitrine
-3. número, nome e data
-4. texto que não acaba
-5. a sua voz
+2. palavras de vitrine (crucial, potencializar, jornada)
+3. fato sem fonte: número e estudo que você não conferiu
+4. frase que não acaba: corte um terço
+5. a voz de outra pessoa: leia em voz alta antes de enviar
 
-Salve para revisar antes de enviar. Qual desses você mais vê por aí? 👇
+A IA escreve, mas quem assina é você. Salve e rode esse checklist antes de mandar.
+
+Qual desses avisos você mais vê por aí? 👇
 
 #inteligenciaartificial #chatgpt #produtividade #escrita #trabalho
