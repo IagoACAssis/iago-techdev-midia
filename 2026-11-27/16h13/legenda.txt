@@ -1,0 +1,9 @@
+Habit rings that make you want to finish the day. 🔥
+Anéis de hábito que dão vontade de fechar o dia. 🔥
+
+TweenAnimationBuilder fills the rings, AnimatedSwitcher pops the check, Dismissible completes with a swipe and a CustomPainter throws the confetti.
+O TweenAnimationBuilder enche os anéis, o AnimatedSwitcher troca pro check, o Dismissible conclui no arrasto e um CustomPainter solta o confete.
+
+Swipe or tap: how would you complete a habit? / Arrastar ou tocar: como você concluiria? 👇
+
+#flutter #flutterdev #uidesign #mobiledev #devbrasil

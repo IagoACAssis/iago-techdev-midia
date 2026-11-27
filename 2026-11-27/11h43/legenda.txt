@@ -1,0 +1,9 @@
+Antes de apertar Enter, olha o que você colou. 🚫
+
+Senha, dados de cliente, contrato sigiloso, cartão e chave de API não deveriam ir pro chat da IA. Dependendo do serviço e da configuração, a conversa fica salva no histórico e pode ser revisada ou usada pra treinar o modelo.
+
+Dica: troque nomes e números por "Cliente A" e "Cartão X". A resposta sai igual.
+
+Manda pro colega que cola tudo 👇
+
+#inteligenciaartificial #segurancadigital #chatgpt #lgpd #tecnologia
