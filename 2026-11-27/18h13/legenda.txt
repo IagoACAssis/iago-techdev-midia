@@ -1,13 +1,14 @@
-Um hero de site que nasce como um eclipse. 🌘
+Site que não parece feito por IA tem sotaque. ⛴️
 
-Feito só com HTML, CSS e um pouco de JS:
-• o planeta é um círculo gigante com box-shadow laranja fazendo a luz da borda
-• a escultura usa mix-blend-mode: screen, então o fundo preto some sozinho
-• o scroll vira uma variável CSS (--rise) e o eclipse sobe enquanto você desce
-• os cards têm borda conic-gradient que segue o cursor
+A JACI é uma empresa de barco fictícia, de Belém pro Marajó. Nada de template:
+• o nome é pintado a pincel, no estilo dos abridores de letras dos barcos da Amazônia (text-shadow em camadas + clip-path)
+• rolar a página é fazer a viagem: o barco anda no mapa e o céu vai da manhã ao pôr do sol (scroll → variável CSS + color-mix)
+• comprar a passagem destaca o canhoto pelo picote e o carimbo de embarque bate (Web Animations API)
 
-EN: An eclipse hero section built with plain HTML, CSS and a bit of JS: box-shadow rim light, screen blend, scroll-driven CSS variables and cursor-following glow borders.
+Animação boa explica alguma coisa. Se tirar e não fizer falta, era enfeite.
 
-Qual efeito você quer ver virar código no próximo? 👇
+EN: A fictional Amazon riverboat site with real identity: hand-painted sign lettering, scroll that becomes the journey, and a ticket that tears off at the perforation.
+
+Qual lugar ou negócio da sua cidade merecia um site assim? 👇
 
 #webdesign #frontend #css #uidesign #devbrasil
