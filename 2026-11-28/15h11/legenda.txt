@@ -1,4 +1,4 @@
-5 telegramas da semana da IA. 📨
+Resumo da semana: 5 notícias de IA que mexem com o seu dia a dia. 📲
 
 1. ChatGPT junta Chat e Work num limite de uso só (em teste com alguns assinantes Pro)
 2. Nova York proíbe por 5 anos brinquedos com chatbot de IA
@@ -6,7 +6,7 @@
 4. Agentes do Claude reescreveram a API da Anthropic de Python para Rust, com revisão humana
 5. SpaceX recebe autorização para até 1 milhão de satélites com chips de IA
 
-Em cada lâmina tem o que isso muda pra você.
+Em cada notificação tem o que isso muda pra você.
 
 Fontes: Sam on AI e The Neuron (26/11/2026).
 
