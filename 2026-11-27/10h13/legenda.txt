@@ -1,0 +1,9 @@
+Smart home cards that light up when you tap. 💡
+Cards de casa inteligente que acendem no toque. 💡
+
+AnimatedContainer fills the color, TweenAnimationBuilder rolls the temperature and AnimatedTheme switches to night mode.
+O AnimatedContainer pinta o card, o TweenAnimationBuilder gira a temperatura e o AnimatedTheme vira o modo noite.
+
+Which one would you add to your app? / Qual você colocaria no seu app? 👇
+
+#flutter #flutterdev #uidesign #mobiledev #devbrasil
