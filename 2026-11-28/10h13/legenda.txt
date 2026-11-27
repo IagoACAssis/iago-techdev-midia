@@ -1,0 +1,9 @@
+Esse semáforo não foi feito no Blender. 🚦
+
+É uma página web: o semáforo foi montado em 3D com three.js e o bonequinho tem um esqueleto em código, com cada pose sendo um ângulo de braço e perna. Os pulos foram medidos quadro a quadro de um vídeo de referência, e a trilha é feita com o sinal sonoro de pedestre e o zumbido do neon.
+
+EN: This traffic light isn't a Blender render. It's a web page: three.js scene, a code-driven stick figure skeleton, and every jump timed frame by frame from a reference video.
+
+Que animação você queria ver no seu site? 👇
+
+#threejs #webdesign #frontend #creativecoding #devbrasil
