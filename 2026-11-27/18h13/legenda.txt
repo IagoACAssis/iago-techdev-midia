@@ -1,0 +1,13 @@
+Um hero de site que nasce como um eclipse. 🌘
+
+Feito só com HTML, CSS e um pouco de JS:
+• o planeta é um círculo gigante com box-shadow laranja fazendo a luz da borda
+• a escultura usa mix-blend-mode: screen, então o fundo preto some sozinho
+• o scroll vira uma variável CSS (--rise) e o eclipse sobe enquanto você desce
+• os cards têm borda conic-gradient que segue o cursor
+
+EN: An eclipse hero section built with plain HTML, CSS and a bit of JS: box-shadow rim light, screen blend, scroll-driven CSS variables and cursor-following glow borders.
+
+Qual efeito você quer ver virar código no próximo? 👇
+
+#webdesign #frontend #css #uidesign #devbrasil
