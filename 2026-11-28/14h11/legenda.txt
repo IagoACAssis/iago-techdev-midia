@@ -1,0 +1,15 @@
+Site de feira com cara de feira. 🍅
+
+A Banca da Cida é fictícia, mas cada detalhe tem motivo:
+• o toldo listrado fica fixo e balança de leve
+• as plaquinhas de preço balançam com a rolagem (é física de mola, não é GIF)
+• a fruta voa em arco e cai na sacola de papel, que atualiza o total
+• o pedido sai numa nota escrita à mão e leva carimbo
+
+Tudo em HTML, CSS e JavaScript. Sem template, sem cara de site feito por IA.
+
+EN: A street-market website with real identity: swinging price tags driven by scroll physics, fruit that flies into a paper bag, and a handwritten receipt.
+
+Qual negócio do seu bairro merecia um site assim? 👇
+
+#webdesign #frontend #css #uidesign #devbrasil

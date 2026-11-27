@@ -1,0 +1,15 @@
+5 telegramas da semana da IA. 📨
+
+1. ChatGPT junta Chat e Work num limite de uso só (em teste com alguns assinantes Pro)
+2. Nova York proíbe por 5 anos brinquedos com chatbot de IA
+3. Character.AI tenta vender conversas de 21 milhões de contas na falência, e 42 procuradores tentam barrar
+4. Agentes do Claude reescreveram a API da Anthropic de Python para Rust, com revisão humana
+5. SpaceX recebe autorização para até 1 milhão de satélites com chips de IA
+
+Em cada lâmina tem o que isso muda pra você.
+
+Fontes: Sam on AI e The Neuron (26/11/2026).
+
+Qual dessas te preocupa mais? Responde com o número 👇
+
+#inteligenciaartificial #noticias #chatgpt #tecnologia #ia
