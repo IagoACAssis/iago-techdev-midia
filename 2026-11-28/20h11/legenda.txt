@@ -1,15 +1,17 @@
-Site de açaí com cara de Belém. 💜
+Loja de açaí com cara de Belém. 💜
 
-A Batedeira é fictícia, mas cada animação mostra o que você está pedindo:
-• no grosso, o fio fica lento e pesado; no popular, escorre rápido
-• escolheu 1 litro, o copo cresce e enche até a marca
-• a tapioca cai, boia um pouco e afunda devagar
-• o preço rola dígito por dígito e o copo fecha quando você pede
+A Batedeira é fictícia, mas cada detalhe tem motivo:
+• o copo é 3D, feito em three.js, e gira de verdade
+• o cartão abre e vira a página do produto, sem corte
+• escolheu 1 litro? o copo cresce e o preço rola dígito por dígito
+• a tapioca cai no copo, com física
+• no grosso, o açaí fica mais escuro e encorpado
+• o copo voa pra sacola e o pedido fecha no WhatsApp
 
-Tudo em HTML, canvas e física simples. Sem template, sem cara de site feito por IA.
+Tudo em HTML, CSS e three.js. Sem template, sem cara de site feito por IA.
 
-EN: An açaí shop website where the animation shows your order: thickness changes the pour, size fills the cup, tapioca sinks.
+EN: An açaí shop website with 3D cups in three.js: the card opens into the product page, the cup grows with the size and tapioca falls in with physics.
 
 Grosso, médio ou popular: como você toma? 👇
 
-#webdesign #frontend #javascript #uidesign #devbrasil
+#webdesign #frontend #threejs #uidesign #devbrasil
