@@ -1,0 +1,15 @@
+Site de açaí com cara de Belém. 💜
+
+A Batedeira é fictícia, mas cada animação mostra o que você está pedindo:
+• no grosso, o fio fica lento e pesado; no popular, escorre rápido
+• escolheu 1 litro, o copo cresce e enche até a marca
+• a tapioca cai, boia um pouco e afunda devagar
+• o preço rola dígito por dígito e o copo fecha quando você pede
+
+Tudo em HTML, canvas e física simples. Sem template, sem cara de site feito por IA.
+
+EN: An açaí shop website where the animation shows your order: thickness changes the pour, size fills the cup, tapioca sinks.
+
+Grosso, médio ou popular: como você toma? 👇
+
+#webdesign #frontend #javascript #uidesign #devbrasil
