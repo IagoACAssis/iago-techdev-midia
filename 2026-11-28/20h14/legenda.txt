@@ -1,0 +1,9 @@
+A water bottle that actually sloshes. 💧
+Uma garrafa d'água que balança de verdade. 💧
+
+A SpringSimulation makes the level chase the value, a CustomPainter tilts the water when you drag, and a particle splash closes the day when you hit the goal.
+Uma SpringSimulation faz o nível perseguir o valor, um CustomPainter inclina a água quando você arrasta e, ao bater a meta, um respingo de partículas fecha o dia.
+
+Would you use an app that reminds you to drink water? / Você usaria um app que te lembra de beber água? 👇
+
+#flutter #flutterdev #uidesign #mobiledev #devbrasil
