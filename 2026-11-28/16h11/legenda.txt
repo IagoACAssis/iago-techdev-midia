@@ -1,0 +1,11 @@
+Esse cérebro não é vídeo. É código. 🧠
+
+São 7.500 triângulos em three.js. Cada um sabe o seu lugar: se espalham num shader rodando na GPU, ao vivo, e voltam a montar o cérebro.
+
+Eu vi a animação numa referência e recriei quadro a quadro, comparando com o original até a diferença ficar abaixo de 3%.
+
+EN: A brain made of 7,500 triangles in three.js, recreated frame by frame from a reference animation.
+
+Qual animação você quer ver clonada? Manda nos comentários 👇
+
+#threejs #webgl #frontend #creativecoding #devbrasil
