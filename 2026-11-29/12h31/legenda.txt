@@ -1,0 +1,11 @@
+A deck of destinations you flick through. 🏝️
+Um baralho de destinos pra folhear com o dedo. 🏝️
+
+Matrix4 gives the stack real depth, the front card flies to the back in an arc, and a Hero turns the card into the full trip page. Alter do Chão, Lençóis, Chapada and Noronha.
+O Matrix4 dá profundidade à pilha, o cartão da frente voa em arco para o fundo e um Hero transforma o cartão na página da viagem. Alter do Chão, Lençóis, Chapada e Noronha.
+
+Which one would you open first? / Qual você abriria primeiro? 👇
+
+Photos generated with AI. / Fotos geradas por IA.
+
+#flutter #flutterdev #uidesign #mobiledev #devbrasil
