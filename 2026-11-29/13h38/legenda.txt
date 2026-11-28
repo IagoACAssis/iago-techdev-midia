@@ -1,0 +1,9 @@
+6 micro-interações que deixam um app vivo. ✨
+
+Arrastar para confirmar, interruptor que amassa, estrelas que espiam o dedo, água que balança, linha que revela ações e papel que amassa. Todas fazem algum sentido para quem usa, nenhuma está ali só de enfeite.
+
+Todas viraram Reels aqui no perfil, com o código em Flutter.
+
+Qual você colocaria no seu app? Comenta o número 👇
+
+#flutter #uidesign #microinteractions #mobiledev #devbrasil

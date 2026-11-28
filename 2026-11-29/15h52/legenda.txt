@@ -1,0 +1,7 @@
+O mesmo switch. Só um deles tem peso. ⚖️
+
+Mesma cor, mesma duração. No da direita, o polegar estica com a velocidade e amassa quando bate no fim. São 4 linhas com Transform.scale, e o "squash and stretch" é o primeiro dos 12 princípios clássicos da animação.
+
+Você notaria a diferença usando o app? 👇
+
+#flutter #dart #uidesign #mobiledev #devbrasil

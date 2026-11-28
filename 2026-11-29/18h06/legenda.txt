@@ -1,0 +1,7 @@
+Por que o app do banco pede para arrastar em vez de tocar? 💸
+
+Botão se aperta sem querer. Arrastar, não. Nesse carrossel estão os 5 estados do "arrastar para pagar": repouso, arrastando, soltou antes, passou de 90% e concluído, com o widget Flutter de cada um.
+
+Você confia mais em botão ou em arrastar? 👇
+
+#flutter #uxdesign #uidesign #mobiledev #devbrasil

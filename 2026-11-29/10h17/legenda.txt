@@ -1,0 +1,9 @@
+Pay with a swipe, not a tap. 💸
+Pix de arrastar para pagar, em vez de tocar. 💸
+
+Let go too early and a SpringSimulation pulls it back. Past 90% it locks, an AnimatedSwitcher turns the arrow into a spinner, and an AnimatedContainer shrinks it into the "sent" badge.
+Soltou antes, uma SpringSimulation puxa de volta. Passou de 90%, trava, o AnimatedSwitcher troca a seta por um spinner e o AnimatedContainer encolhe tudo no selo de enviado.
+
+Swipe or button for payments? / Pra pagar: arrastar ou botão? 👇
+
+#flutter #flutterdev #uidesign #mobiledev #devbrasil

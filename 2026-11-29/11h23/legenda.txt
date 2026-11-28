@@ -1,0 +1,13 @@
+Animação que parece "travada" quase sempre usa a curva errada. 📈
+
+Cada gesto pede uma curva:
+• tocar num botão → easeOut (sai rápido e freia)
+• abrir um painel → mola (passa um pouco e volta)
+• algo que cai → bounce (só quando cai de verdade)
+• barra de progresso → linear
+
+Regra de bolso: o que entra na tela desacelera, nunca acelera.
+
+Qual dessas você mais usa no seu app? 👇
+
+#flutter #motiondesign #uidesign #mobiledev #devbrasil

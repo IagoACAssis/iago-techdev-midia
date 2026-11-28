@@ -1,0 +1,9 @@
+Mola não é mágica. São dois números. 🌀
+
+stiffness é a força que puxa para o destino. damping é o freio. Com a mesma força, pouco freio vira brinquedo, freio demais fica lento, e no meio fica no ponto.
+
+Atalho: damping perto de 2 × √stiffness não passa do ponto. Abaixo disso, quica.
+
+Salva para a próxima animação 📌
+
+#flutter #dart #motiondesign #mobiledev #devbrasil
