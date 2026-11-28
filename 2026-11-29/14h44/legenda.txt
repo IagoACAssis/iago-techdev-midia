@@ -1,0 +1,9 @@
+A switch that stretches and squashes. 🟠
+Um switch que estica e amassa. 🟠
+
+The thumb stretches with its velocity and squashes when it hits the end, all with one SpringSimulation and Transform.scale. Slowed down to 0.25× so you can see it.
+O polegar estica com a velocidade e amassa quando bate no fim, tudo com uma SpringSimulation e um Transform.scale. Tem câmera lenta a 0,25× para você ver.
+
+Too much or just right? / Exagero ou no ponto? 👇
+
+#flutter #flutterdev #uidesign #mobiledev #devbrasil

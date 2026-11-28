@@ -1,0 +1,9 @@
+Stars that peek at your finger. ⭐
+Estrelas que espiam o dedo. ⭐
+
+A wave of stars rises toward the finger (exp(-dx²)), each one pops with elasticOut, and a CustomPainter face changes mood with the rating.
+Uma onda de estrelas sobe em direção ao dedo (exp(-dx²)), cada uma estoura com elasticOut, e um rosto em CustomPainter muda de humor junto com a nota.
+
+How many stars would you give this one? / Quantas estrelas você dá pra esse? 👇
+
+#flutter #flutterdev #uidesign #mobiledev #devbrasil
