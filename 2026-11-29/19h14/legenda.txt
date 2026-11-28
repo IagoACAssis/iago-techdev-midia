@@ -1,0 +1,9 @@
+Delete a note and it turns into a paper ball. 🗑️
+Apagou a nota? Ela vira bolinha de papel. 🗑️
+
+Half a swipe opens Pin and Delete (SpringSimulation). A full swipe crumples the card with a CustomPainter and tosses it in the trash. Undo runs it in reverse() and unfolds the paper.
+Meio arrasto abre Fixar e Apagar (SpringSimulation). Arrasto inteiro amassa o cartão com um CustomPainter e joga no lixo. Desfazer roda tudo em reverse() e desamassa o papel.
+
+Fun or too much for a notes app? / Divertido ou exagero pra um app de notas? 👇
+
+#flutter #flutterdev #uidesign #mobiledev #devbrasil
